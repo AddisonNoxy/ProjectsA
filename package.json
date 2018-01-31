@@ -1,0 +1,15 @@
+{
+  "name": "mybot",
+  "version": "0.0.1",
+  "description": "a bot to give quotes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "addisonnoxy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "save": "^2.3.2"
+  }
+}
